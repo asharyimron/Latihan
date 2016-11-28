@@ -1,0 +1,758 @@
+
+<!DOCTYPE html>
+<HTML amp='amp' lang='en'>
+<head>
+<meta charset='utf-8'/>
+<meta content='tnHmB6-CpBR33F8GuJYRNQuCoyBUutyKAfL7yF_9S-A' name='google-site-verification'/>
+<meta content='width=device-width,minimum-scale=1,initial-scale=1' name='viewport'/>
+<meta content='IE=9; IE=8; IE=7; IE=EDGE; chrome=1' http-equiv='X-UA-Compatible'/>
+<meta content='blogger' name='generator'/>
+<link href='http://www.gurusinau.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://www.gurusinau.com/p/tos.html' rel='amphtml'/>
+<link href='https://4.bp.blogspot.com/-XAdlOi3AQnQ/V_DaDJYlZ-I/AAAAAAAAHfE/qJ9-EO1hNdcwfXiGEsh81fOBlh2vpDfygCK4B/s57/apple-icon180.png' rel='apple-touch-icon' sizes='57x57'/>
+<link href='https://4.bp.blogspot.com/-XAdlOi3AQnQ/V_DaDJYlZ-I/AAAAAAAAHfE/qJ9-EO1hNdcwfXiGEsh81fOBlh2vpDfygCK4B/s60/apple-icon180.png' rel='apple-touch-icon' sizes='60x60'/>
+<link href='https://4.bp.blogspot.com/-XAdlOi3AQnQ/V_DaDJYlZ-I/AAAAAAAAHfE/qJ9-EO1hNdcwfXiGEsh81fOBlh2vpDfygCK4B/s72/apple-icon180.png' rel='apple-touch-icon' sizes='72x72'/>
+<link href='https://4.bp.blogspot.com/-XAdlOi3AQnQ/V_DaDJYlZ-I/AAAAAAAAHfE/qJ9-EO1hNdcwfXiGEsh81fOBlh2vpDfygCK4B/s76/apple-icon180.png' rel='apple-touch-icon' sizes='76x76'/>
+<link href='https://4.bp.blogspot.com/-XAdlOi3AQnQ/V_DaDJYlZ-I/AAAAAAAAHfE/qJ9-EO1hNdcwfXiGEsh81fOBlh2vpDfygCK4B/s114/apple-icon180.png' rel='apple-touch-icon' sizes='114x114'/>
+<link href='https://4.bp.blogspot.com/-XAdlOi3AQnQ/V_DaDJYlZ-I/AAAAAAAAHfE/qJ9-EO1hNdcwfXiGEsh81fOBlh2vpDfygCK4B/s120/apple-icon180.png' rel='apple-touch-icon' sizes='120x120'/>
+<link href='https://4.bp.blogspot.com/-XAdlOi3AQnQ/V_DaDJYlZ-I/AAAAAAAAHfE/qJ9-EO1hNdcwfXiGEsh81fOBlh2vpDfygCK4B/s144/apple-icon180.png' rel='apple-touch-icon' sizes='144x144'/>
+<link href='https://4.bp.blogspot.com/-XAdlOi3AQnQ/V_DaDJYlZ-I/AAAAAAAAHfE/qJ9-EO1hNdcwfXiGEsh81fOBlh2vpDfygCK4B/s152/apple-icon180.png' rel='apple-touch-icon' sizes='152x152'/>
+<link href='https://4.bp.blogspot.com/-Nz4vP17g_n4/WCcQnuSzrLI/AAAAAAAAHjU/Wor1QKOOpNg_0aAUdAorA9MEEc3QD6lqQCLcB/s1600/Tut%2BWuri.png' rel='apple-touch-icon' sizes='180x180'/>
+<link href='https://4.bp.blogspot.com/-Nz4vP17g_n4/WCcQnuSzrLI/AAAAAAAAHjU/Wor1QKOOpNg_0aAUdAorA9MEEc3QD6lqQCLcB/s1600/Tut%2BWuri.png' rel='icon' sizes='192x192' type='image/png'/>
+<link href='https://4.bp.blogspot.com/-Nz4vP17g_n4/WCcQnuSzrLI/AAAAAAAAHjU/Wor1QKOOpNg_0aAUdAorA9MEEc3QD6lqQCLcB/s1600/Tut%2BWuri.png' rel='icon' sizes='32x32' type='image/png'/>
+<link href='https://4.bp.blogspot.com/-Nz4vP17g_n4/WCcQnuSzrLI/AAAAAAAAHjU/Wor1QKOOpNg_0aAUdAorA9MEEc3QD6lqQCLcB/s1600/Tut%2BWuri.png' rel='icon' sizes='96x96' type='image/png'/>
+<meta content='https://4.bp.blogspot.com/-Nz4vP17g_n4/WCcQnuSzrLI/AAAAAAAAHjU/Wor1QKOOpNg_0aAUdAorA9MEEc3QD6lqQCLcB/s1600/Tut%2BWuri.png' name='msapplication-TileImage'/>
+<link href='http://www.gurusinau.com/p/tos.html' rel='canonical'/>
+<link href='http://www.gurusinau.com/feeds/posts/default' rel='alternate' title='Blog Guru SD- Atom' type='application/atom+xml'/>
+<link href='http://www.gurusinau.com/feeds/posts/default?alt=rss' rel='alternate' title='Blog Guru SD- RSS' type='application/rss+xml'/>
+<link href='https://www.blogger.com/feeds/3871963125292490616/posts/default' rel='alternate' title='Blog Guru SD- Atom' type='application/atom+xml'/>
+<link href='https://www.blogger.com/openid-server.g' rel='openid.server'/>
+<link href='http://www.gurusinau.com/' rel='openid.delgate'/>
+<link href='https://plus.google.com/u/0/117812580212506931713' rel='me'/>
+<link href='https://plus.google.com/u/0/117812580212506931713' rel='publisher'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>TOS</title>
+<meta content='Blog Guru SD' property='og:site_name'/>
+<meta content='https://2.bp.blogspot.com/-a-3w6wGXqJE/V-x_NdC7ojI/AAAAAAAAn_g/-YfOdP0rYmcDJva0WM-jJf6v3oI6pKGdwCLcB/s600/logo-kd.png' property='og:image'/>
+<meta content='100006644464463' property='fb:admins'/>
+<meta content='480072895444481' property='fb:profile_id'/>
+<meta content='Radenmas' name='Author'/>
+<meta content='https://www.facebook.com/adhy.suryadii' property='article:author'/>
+<meta content='Blog Guru SD' name='twitter:site'/>
+<meta content='summary_large_image' name='twitter:card'/>
+<meta content='@KompiAjaib' name='twitter:creator'/>
+<link href='https://fonts.googleapis.com/css?family=Roboto:300,400italic,400,500,500italic,700,700italic,900%7CMaterial+Icons' rel='stylesheet' type='text/css'/>
+
+<!-- <style id='page-skin-1' type='text/css'><!--
+#layout #header{width:40%;float:left}
+#layout #main-wrapper{width:60%;float:left;}
+#layout #sidebar-kanan{width:40%;float:right;}
+#layout #cssmenu ul, #cssmenu li{list-style: none;}
+#layout ul,ol,li{list-style:none}
+#layout #footer1,#layout #footer2,#layout #footer3,#layout #footer4{width:40%;float:left;}
+
+--></style>
+<style amp-custom='amp-custom'>
+/*<![CDATA[*/
+.material-icons {vertical-align:-15%;font-size:inherit;text-rendering: optimizeLegibility;-moz-osx-font-smoothing: grayscale;}
+.material-icons.md-16{font-size:16px;}
+.material-icons.md-18{font-size:18px;}
+.material-icons.md-24{font-size:24px;vertical-align:-25%;}
+#judulblog,#title,.content-wrapper,.page-menu ul li,a:link{transition:all .4s ease-in-out}
+.page-menu ul li,li a{list-style:none}
+#bread,#header,#header-wrapper,#main-wrapper,.breadcrumbs,.comment_avatar,.credit,iframe{overflow:hidden}
+#header h1,#header p a,.descriptionwrapper,.post h1,.post h2,.post-body,.sidebar,body,p.description span{font-family: Roboto, sans-serif}
+li a{display:list-item}
+#judul-post{border-bottom:1px solid #ddd}
+#main-wrapper,#sidebar-kanan,i.klik-url{word-wrap:break-word}
+#header,#judulblog,#search-box,#title,.content-wrapper,.komentar p,.search-field,table.gsc-search-box{position:relative}
+#navbar-iframe,.post-comment-link{visibility:hidden}
+#navbar-iframe{height:0;display:none}
+body{background:#fff;color: #212121;color: rgba(0,0,0,.87);font-size:100%;text-align:left;margin:0}
+a:link,a:visited{color:#141924;text-decoration:none}
+a:hover{color:#e8554e;text-decoration:none}
+a:active,a:focus,i:active,i:focus{outline:0}
+a:active{position:relative;top:1px;left:1px}
+a img{border-width:0}
+b{font-weight:500}
+#header-wrapper{float:left;display:inline;margin:0 20px 0 0;padding:0}
+#header{display:block;width:auto;margin:0;padding:0;z-index:1}
+#header-inner{background-position:center;margin:0;padding:0;display:block}
+#header h1,#header p.title{font-size:18px;font-weight:900;height:80px;line-height:80px;color:#efefef;padding:0;margin:0}
+.descriptionwrapper,p.description span{font-style:italic;font-weight:400;color:#141924;position:fixed;top:-1000px;left:-1000px}
+#header2{position:fixed;top:-1000px;left:-1000px}
+#header amp-img{border:0;background:0 0;width:auto;height:auto;margin:0 auto;vertical-align:middle}
+#judulblog{padding:0;margin:0;width:100%;box-shadow:2px 1px 1px rgba(0,0,0,.15);font-size:14px;font-weight:300;-webkit-transform:translateZ(0);transform:translateZ(0);-webkit-backface-visibility:hidden;backface-visibility:hidden;background-color:#fff;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+#judulblog.fixed{-webkit-transform:translateY(0);transform:translateY(0);-webkit-transition:all .4s ease;transition:all .4s ease;left:0;position:fixed;top:0;width:100%;z-index:999}
+.clear{clear:both}
+.content-wrapper{width:100%;max-width:980px;margin-left: auto;margin-right: auto;}
+#outer-wrapper{width:auto;text-align:left;margin:0;padding:0;}
+#main-wrapper{width:100%;}
+#sidebar-kanan{display:none}
+#judul-post{background:#fff;margin:0;padding:10px 0;height:auto}
+::selection{background:#e8554e;color:#fff}
+
+.btn-sidebaramp{display:none}
+amp-sidebar{width:240px;padding-right:20px}
+.amp-sidebar-image{line-height:100px;vertical-align:middle}
+.amp-close-image{top:15px;left:225px;cursor:pointer}
+amp-sidebar ul{padding:0 0 0 20px;list-style:none}
+amp-sidebar li{margin-bottom:20px;list-style:none}
+amp-sidebar button{margin-left:20px}
+
+.post{margin:0 auto;padding:0;background:#fff}
+.post h2{position:fixed;top:-1000px;left:-1000px}
+.post h2,.judul_page{font-size:24px;font-weight:900;line-height:1.2em;margin:0;padding:0;text-align:center;text-transform:capitalize}
+.post h2 a,.post h2 a:visited,.post h2 strong{display:block;text-decoration:none;color:#141924}
+.post h2 a:hover,.post h2 strong{color:#e8554e}
+.judul_page{background:#448aff;;padding:110px 0 30px;border-bottom:1px solid #ddd;color:#fff}
+.post-body{margin:1em 0 .65em;font-size:16px;font-weight:400;line-height:1.6em;padding:0;text-align:justify;}
+.post ol li,i.klik-url{cursor:default}
+::selection{background:#e8554e;color:#fff}
+.post-footer{color: #212121;color: rgba(0,0,0,.87);text-transform:none;letter-spacing:.01em;font:12px Arial;line-height:1.4em;margin:0}
+.comment-link{margin-left:.1em}
+.tr-caption{background:#ddd;border:1px solid #333;font:italic 10px Georgia;line-height:1.6em;color: #212121;color: rgba(0,0,0,.87)}
+
+.search-wrapper{height:30px;float:right;display:inline;padding:25px 0;margin-top:-80px}
+#search-box{width:200px;height:27px;float:right;padding:0;margin:0;position:relative}
+#search-box form{border:1px solid #ccc;line-height:27px}
+.search-form{border:none;color:gray;width:100%;padding:0 30px 0 10px;height:27px;line-height:27px;font-size:14px;font-weight:400;margin:0;-moz-box-sizing:border-box;box-sizing:border-box}
+.search-button{background:0 0;width:30px;height:29px;line-height:29px;padding:0;text-align:center;margin:0;top:0;right:0;font-size:18px;color:#888;position:absolute;border:none;border-radius:0;text-shadow:none;box-shadow:none}
+.search-form:focus,.search-form:hover,.search-button:focus,.search-button:hover{border:none;outline:0;color:#000}
+
+.page-menu{float:left;width:auto;height:auto;padding:0;margin:0}
+.page-menu ul{margin:0 auto;padding:0;line-height:3em}
+.page-menu ul li{display:inline-block;margin:0 auto;}
+.page-menu ul li a:hover{color:#e8554e}
+.page-menu ul li a{color: #212121;color: rgba(0,0,0,.87);padding:19px 20px 19px 0;font-size:16px;font-weight:400}
+.page-menu ul li a,.page-menu ul li a span{font-family:Roboto,sans-serif}
+
+#footer-wrapper{background:#3a3a3a;border-top:1px solid #ddd;border-bottom:1px solid #ddd;width:100%;margin-top:50px;padding:20px 0 30px;}
+#footer1{width:40%;padding:30px 30px 10px 0;display:inline;float:left;color:#f1f1f1;font-size:14px;font-weight:300;line-height:1.6em;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+#footer2,#footer3,#footer4{width:20%;padding:30px 0 10px 30px;display:inline;float:left;color:#f1f1f1;font-size:14px;font-weight:300;line-height:1.6em;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+#footer1 h2,#footer2 h2,#footer3 h2,#footer4 h2{font-size:16px;font-weight:700;color:#fefefe;margin:0}
+#footer1 a,#footer2 a,#footer3 a,#footer4 a{color:#f1f1f1;}
+#footer1 ul,#footer2 ul,#footer3 ul,#footer4 ul{list-style:none;padding:0;margin:5px 0}
+#footer-wrapper p{margin:0}
+#footer1 .logo-footer{clear:both;text-align:left;display:block}
+#footer1 .logo-footer img{margin-left:-6px}
+
+.creditpic{background:#111;margin-top:0px;padding:10px 0 10px;position:relative}
+.credit{line-height:2.3em;font-size:12px;font-weight:400;color:#fff;clear:both;margin:0 auto;padding:0;text-align:left}
+.credit-right{float:right}
+.credit a:link,.credit a:visited{color:#666;text-decoration:none}
+.credit a:hover{color:#e8554e;text-decoration:none}
+
+h3.date-header,.postmeta{font-size:16px;font-weight:400;padding:0;margin:20px 0 0 0;line-height:1;text-align:center;}
+.author a,.clock a,.postmeta a{font-size:16px;color:#141924;font-weight:400}
+.author a:hover,.clock a:hover,.postmeta a:hover{color:#e8554e}
+.updated{border-bottom:0}
+.post .jump-link{display:none}
+
+.post-author amp-img,.post-author img{padding:0;width:36px;height:36px;border-radius:100%;vertical-align:middle}
+
+.cookie-choices-info{border-bottom:1px solid #333;color:#555}
+.cookie-choices-info{z-index:1000000;background-color:#fff;border-top:1px solid #dedede;padding:3px 0;bottom:0;top:inherit}
+.cookie-choices-info .cookie-choices-text{font-size:17px;color:#666;font-family:"Helvetica Neue Light",HelveticaNeue-Light,"Helvetica Neue",Calibri,Helvetica,Arial}
+.cookie-choices-info .cookie-choices-button{background-color:#adbcc5;border-radius:5px;padding:5px 12px;text-transform:none;color:#000;transition:all .2s linear}
+.cookie-choices-info .cookie-choices-button:nth-child(2){background-color:#f1d600}
+.cookie-choices-info .cookie-choices-button:hover,.cookie-choices-info .cookie-choices-button:nth-child(2):hover{background-color:#e9eef0}
+
+.post-body .separator a{margin:0}
+.post-body a:active{position:relative;top:1px;left:1px}
+.post-body a[href^="http://"],.post-body a[href^="https://"]{font-weight:500;color:#e8554e}
+.post-body a[href^="http://"]:after,.post-body a[href^="https://"]:after{content:'\f08e';font-family:FontAwesome;color:#e8554e;margin-left:5px}
+.post-body .separator a:after,.post-body a[href^="http://www.kompiajaib.com/"]:after,.post-body a[href^="https://twitter.com/intent/tweet"]:after{content:'';margin-left:0}
+.post-body .separator img{width:auto;max-width:100%;height:auto}
+.post-body h2{font-size:23px;font-size:1.4375rem;margin:15px 0}
+.post-body h3{font-size:19px;font-size:1.1875rem;font-weight: 900;color:#333;margin:15px 0;}
+.post-body h4,.post-body h5,.post-body h6{font-size:16px;font-size:1rem;font-weight: 900;color:#333;margin:15px 0}
+
+.disqus-comments{display:none}
+
+#contactForm input:focus~label,#contactForm input:valid~label,#contactForm textarea:focus~label,#contactForm textarea:valid~label{font-size:.75em;color:#8e44ad;top:-2.25rem;-webkit-transition:all 125ms ease;transition:all 125ms ease}
+#contactForm .styled-input{float:left;width:33.3333%;margin:2rem 0 0;padding:0 10px 0 0;position:relative;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+#contactForm .styled-input-in{position:relative}
+#contactForm{margin-right:-10px}
+#contactForm .styled-input label{color:#999;padding:1rem;position:absolute;top:0;left:0;-webkit-transition:all .25s ease;transition:all .25s ease;pointer-events:none;line-height:1}
+#contactForm .styled-input.wide{width:100%}
+#contactForm input,#contactForm textarea{padding:1rem;border:1px solid #ddd;width:100%;font-size:1rem;background:#fafafa;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+#contactForm input~.span1,#contactForm textarea~.span1{display:block;width:0;height:3px;background:#8e44ad;position:absolute;left:50%;-webkit-transition:width .4s ease-in-out;transition:width .4s ease-in-out}
+#contactForm input~.span2,#contactForm textarea~.span2{display:block;width:0;height:3px;background:#8e44ad;position:absolute;right:50%;-webkit-transition:width .4s ease-in-out;transition:width .4s ease-in-out}
+#contactForm input~span{bottom:0}
+#contactForm textarea~span{bottom:5px}
+#contactForm input:focus,#contactForm textarea:focus{outline:0}
+#contactForm input:focus~.span1,#contactForm input:focus~.span2,#contactForm textarea:focus~.span1,#contactForm textarea:focus~.span2{width:50%}
+#contactForm textarea{width:100%;min-height:15em}
+#contactForm .btn{font-family:Helvetica,Arial,sans-serif;text-transform:uppercase;font-size:14px;font-weight:800;letter-spacing:1px;border-radius:0;padding:0 25px;height:51px;line-height:51px;color:#333;background-color:#fafafa;border:1px solid #ddd;cursor:pointer;margin:20px 0 0;background-image:none}
+#contactForm .btn-default:focus,#contactForm .btn-default:hover{background-color:#8e44ad;border:1px solid #0400bf;color:#fff}
+#contactForm .gotcha{border:none;background:0 0;display:none}
+
+.thanks_layout{text-align: center; position: fixed; top:0; left:0; bottom:0; right:0; background:rgba(0,0,0,.8);z-index:99999}
+.thanks_message{width:50%;background:#fff;border-radius:5px;padding:20px;border:1px solid transparent;text-align: center; color:#333; position: absolute; top: 10%; left: 50%;margin-left:-25%;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}
+@media screen and (max-width:768px){.thanks_message{width:90%;margin-left:-45%;}
+}
+
+@media screen and (max-width:880px){.content-wrapper{padding:0 10px;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;}
+#outer-wrapper{padding-top:10px}
+#main-wrapper{width:100%;margin:0;border-radius:0;border-left:none;border-right:none}
+.page-menu{width:100%;margin:0;text-align:center}
+.page-menu ul li a{padding:0 20px 0 0;}
+#search-box,.search-wrapper{float:none;display:block}
+.search-wrapper{margin-top:0;text-align:center;padding:0 0 10px}
+#search-box{width:auto;margin:0}
+#judulblog.fixed{position:relative;box-shadow:none}
+#header-wrapper{padding-top:10px;margin: 0;text-align:center;float:none;display:block}
+#header{max-width:100%;text-align:center;float:none;display:block}
+#header h1,#header p.title{font-size:22px;font-weight:900;height:40px;line-height:40px}
+#sidebar-kanan,.judul_page{display:none}
+#main{margin:0}
+#blog-pager, .blog-pager{padding-right:0}
+.post{padding-right:0}
+.post h2{position:relative;top:0;left:0}
+.breadcrumbs{padding:5px 0 10px;margin:0;}
+.halaman{margin:20px 0 20px;}
+#footer-wrapper{display:none}
+#contactForm .styled-input {width:100%;}
+.credit-right{float:none;margin-top:10px}
+}
+@media screen and (max-width:414px){._post-thumbnail-area{width:100%;margin: 7px 0 10px 0;display:block;float:none;height:auto;}
+._post-thumbnail{height:auto;}
+.table{layout: responsive; display:block; border-collapse:collapse;border-color:1px solid #111; width:100%}
+td {background:#F7F7F7;padding:0.5rem;text-align:left;color:#111;font-size:16px;font-weight:300;line-height:24px;vertical-align:top}
+th{background:#4183D7;padding:0.5rem;text-align:center;color:#fff;font-size:16px;font-weight:bold;line-height:24px;vertical-align:center;}
+.page-menu ul li a{padding:0 10px;}
+}
+
+@media print{#blog-pager,#comments,#css-menu,#shareOnscroll,#sidebar-kanan,.blog-pager,.breadcrumbs,.kompiajaib_info2,.onpost,.postmeta,.underpost,h3.date-header{display:none}
+#main-wrapper{width:100%}
+.post-body{padding:0}
+#judul-post,.breadcrumbs,.postmeta{margin:0}
+}
+#table-outer{padding:7px 10px;margin:0 auto}
+#table-outer table{width:auto;margin:0 auto}
+#table-outer form{font:inherit}
+#table-outer label{display:block;text-align:right;margin:0 10px 0 0;padding:4px 0 0}
+#table-outer select[disabled]{opacity:.4}
+#post-searcher{display:block;margin:0;padding:0}
+#table-outer input,#table-outer select{width:100%;border:1px solid #dedede;border-radius:5px;margin:0;padding:5px;font-family: Roboto,sans-serif;font-size:16px;font-weight:500;text-transform:capitalize;outline:0;color:#333;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+#table-outer select option{min-height:1.4em;}
+#table-outer input#feed-q{padding:5px 10px;}
+#feed-container{background:#fff;display:block;clear:both;margin:0;padding:0;list-style:none;overflow:hidden;position:relative;border-top:none}
+#feed-container li{list-style:none;margin:0;padding:0;border-top:1px solid #eee;color:#555;width:auto;float:left;display:inline}
+#feed-container li .inner{margin:15px 0;height:auto;overflow:hidden;word-wrap:break-word;text-overflow:ellipsis}
+#feed-container li a{text-decoration:none;color:#2C2C2C;font-weight:500}
+#feed-container li a:hover{text-decoration:none;color:#E94141}
+#feed-container li .news-text{margin-top:5px;line-height:1.3em}
+#feed-container li img{margin:0 15px 5px 0;padding:7px 7px 7px 0;float:left;display:block;}
+#result-desc{margin:0;padding:0;}
+#result-desc div,#result-desc span{display:block;margin:0;padding:5px 0 7px;color:#D64D52}
+#result-desc div{color:inherit}
+#feed-nav{margin:10px 0 30px;text-align:center;font-weight:500}
+#feed-nav a,#feed-nav span{border:1px solid #dedede;border-radius:5px;padding:0;color:#757575;text-decoration:none;display:block;height:30px;line-height:32px}
+#feed-nav a,#feed-nav span:hover{color:#1B1B1B}
+#feed-nav a:active,#feed-nav a:hover{color:#555}
+#feed-nav span{cursor:wait}
+@media screen and (max-width:600px){#table-outer table{margin:0 auto;width:100%}
+#feed-container,#table-outer{margin:0 auto}
+#feed-container li .inner{margin:5px auto;height:auto}
+#feedContainer li{float:none;display:block;width:auto;height:auto}
+#feed-container li .news-text, #feedContainer:after,#feed-container li img{display:none}
+}
+/*]]>*/
+</style>
+<style amp-boilerplate='amp-boilerplate'>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate='amp-boilerplate'>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+<script async='async' src='https://cdn.ampproject.org/v0.js'></script>
+<script async='async' custom-element='amp-sidebar' src='https://cdn.ampproject.org/v0/amp-sidebar-0.1.js'></script>
+<script async='async' custom-element='amp-form' src='https://cdn.ampproject.org/v0/amp-form-0.1.js'></script>
+<script async='async' custom-element='amp-social-share' src='https://cdn.ampproject.org/v0/amp-social-share-0.1.js'></script>
+<script async='async' custom-element='amp-iframe' src='https://cdn.ampproject.org/v0/amp-iframe-0.1.js'></script>
+<script async='async' custom-element='amp-youtube' src='https://cdn.ampproject.org/v0/amp-youtube-0.1.js'></script>
+<script async='async' custom-element='amp-image-lightbox' src='https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js'></script>
+<script async='async' custom-element='amp-accordion' src='https://cdn.ampproject.org/v0/amp-accordion-0.1.js'></script>
+<script async='async' custom-element='amp-list' src='https://cdn.ampproject.org/v0/amp-list-0.1.js'></script>
+<script async='async' custom-template='amp-mustache' src='https://cdn.ampproject.org/v0/amp-mustache-0.1.js'></script>
+<script async='async' custom-element='amp-analytics' src='https://cdn.ampproject.org/v0/amp-analytics-0.1.js'></script>
+<script async='async' custom-element='amp-carousel' src='https://cdn.ampproject.org/v0/amp-carousel-0.1.js'></script>
+<script async='async' custom-element='amp-ad' src='https://cdn.ampproject.org/v0/amp-ad-0.1.js'></script>
+</head><!--<head><link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/954498779-widget_css_bundle.css' />
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=3871963125292490616&amp;zx=859bec4c-44e7-43d6-b434-651228d7e08c' />
+</head>-->
+<body itemscope='itemscope' itemtype='http://schema.org/WebPage'>
+<amp-analytics id='analytics1' type='googleanalytics'>
+<script type='application/json'>
+{
+  "vars": {
+    "account": "UA-85419044-1"
+  },
+  "triggers": {
+    "trackPageview": {
+      "on": "visible",
+      "request": "pageview"
+    }
+  }
+}
+</script>
+</amp-analytics>
+<amp-image-lightbox id='lightbox1' layout='nodisplay'></amp-image-lightbox>
+<button class='btn-sidebaramp' on='tap:sidebar.toggle'></button>
+<amp-sidebar id='sidebar' layout='nodisplay' side='right'>
+<amp-img alt='close sidebar' class='amp-close-image' height='20' on='tap:sidebar.close' role='button' src='https://ampbyexample.com/img/ic_close_black_18dp_2x.png' tabindex='0' width='20'></amp-img>
+<nav>
+<ul>
+<li><a href='/'>Home</a></li>
+<li><a href='https://cdn.rawgit.com/asharyimron/Latihan/master/latihan2.html' itemprop='url' target='_blank' title='Sitemap'>Sitemap</a></li>
+<li><a href='http://www.gurusinau.com/search/label/PKn' itemprop='url' title='Pkn'>Pkn</a></li>
+<li><a href='http://www.gurusinau.com/search/label/Bahasa%20Indoensia' itemprop='url' title='Bahasa'>Bahasa</a></li>
+<li><a href='http://www.gurusinau.com/search/label/Matematika' itemprop='url' title='Matematika'>Matematika</a></li>
+<li><a href='http://www.gurusinau.com/search/label/IPA' itemprop='url' title='IPA'>IPA</a></li>
+<li><a href='http://www.gurusinau.com/search/label/IPS' itemprop='url' title='IPS'>IPS</a></li>
+<li>
+<div class='search-wrapper'>
+<div id='search-box'>
+<div itemprop='mainEntity' itemscope='itemscope' itemtype='http://schema.org/WebSite'>
+<meta content='http://www.gurusinau.com/' itemprop='url'/>
+<form action='https://cdn.rawgit.com/Tematiku/searchresult.html/master/search.html' itemprop='potentialAction' itemscope='itemscope' itemtype='http://schema.org/SearchAction' method='get' target='_blank'>
+<meta content='https://cdn.rawgit.com/Tematiku/searchresult.html/master/search.html?q={q}' itemprop='target'/>
+<input class='search-form' id='feed-q-input' itemprop='query-input' name='q' placeholder='Search' required='required' type='text'/>
+<button class='search-button' title='Search' type='submit'><i class='material-icons'>&#59574;</i></button>
+</form></div>
+</div>
+<div class='clear'></div>
+</div>
+</li>
+</ul>
+</nav>
+</amp-sidebar>
+<div itemprop='mainContentOfPage' itemscope='itemscope' itemtype='https://schema.org/WebPageElement'>
+<div class='fixed' id='judulblog'>
+<div class='content-wrapper'>
+<header itemprop='mainEntity' itemscope='itemscope' itemtype='http://schema.org/WPHeader'>
+<div id='header-wrapper'>
+<div class='header section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title' itemprop='headline'>
+<a href='http://www.gurusinau.com/' itemprop='url' title='Blog Guru SD'><span itemprop='name'><amp-img alt='Logo' height='30' src='https://4.bp.blogspot.com/-Nz4vP17g_n4/WCcQnuSzrLI/AAAAAAAAHjU/Wor1QKOOpNg_0aAUdAorA9MEEc3QD6lqQCLcB/s1600/Tut%2BWuri.png' title='Blog Guru SD' width='30'></amp-img>
+Blog Guru SD</span></a>
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description' itemprop='description'><span>Hanya sebuah blog sederhana</span></p>
+</div>
+</div>
+</div></div>
+<div class='clear'></div>
+</div>
+</header><!-- end header-wrapper -->
+<div class='mobile-hide'>
+<nav class='page-menu' itemprop='mainEntity' itemscope='itemscope' itemtype='http://schema.org/SiteNavigationElement'>
+<ul>
+<li><a href='#' itemprop='url' title='PKn'><span itemprop='name'>PKn</span></a></li>
+<li><a href='http://www.gurusinau.com/search/label/Bahasa%20Indoensia' itemprop='url' title='Bahasa'><span itemprop='name'>Bahasa</span></a></li>
+<li><a href='http://www.gurusinau.com/search/label/Matematika' itemprop='url' title='Matematika'><span itemprop='name'>Matematika</span></a></li>
+<li><a href='http://www.gurusinau.com/search/label/IPA' itemprop='url' title='IPA'><span itemprop='name'>IPA</span></a></li>
+<li><a href='http://www.gurusinau.com/search/label/IPS' itemprop='url' title='IPS'><span itemprop='name'>IPS</span></a></li>
+</ul>
+<div class='clear'></div>
+</nav>
+<div class='clear'></div>
+<div class='search-wrapper'>
+<div id='search-box'>
+<div itemprop='mainEntity' itemscope='itemscope' itemtype='http://schema.org/WebSite'>
+<meta content='#' itemprop='url'/>
+<form action='https://cdn.rawgit.com/Tematiku/searchresult.html/master/search.html' itemprop='potentialAction' itemscope='itemscope' itemtype='http://schema.org/SearchAction' method='get' target='_blank'>
+<meta content='https://cdn.rawgit.com/Tematiku/searchresult.html/master/search.html?q={q}' itemprop='target'/>
+<input class='search-form' id='feed-q-input' itemprop='query-input' name='q' placeholder='Search' required='required' type='text'/>
+<button class='search-button' title='Search' type='submit'><i class='material-icons'>&#59574;</i></button>
+</form></div>
+</div>
+<div class='clear'></div>
+</div>
+</div>
+</div>
+</div>
+<div class='clear'></div>
+<div class='thumb-wrapper'>
+<div class='judul_page'>
+<div class='content-wrapper'>
+TOS
+</div>
+</div>
+<div class='content-wrapper'>
+<div id='outer-wrapper'>
+<div itemscope='itemscope' itemtype='http://schema.org/Blog'>
+<div id='main-wrapper'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<article class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div class='home-post'>
+<meta content=' Terms of Service for Blog Guru SD  If you require any more information or have any questions about our Terms of Service, please feel free t...' property='twitter:description'/>
+<div itemprop='image' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='https://3.bp.blogspot.com/-x_mMtgFf6XE/VlhLxwdLekI/AAAAAAAAj3c/N7fRz1lbMSg/s1600/no-thumbnail.jpg' itemprop='url'/>
+<meta content='700' itemprop='width'/>
+<meta content='700' itemprop='height'/>
+</div>
+<div itemprop='publisher' itemscope='itemscope' itemtype='https://schema.org/Organization'>
+<div itemprop='logo' itemscope='itemscope' itemtype='https://schema.org/ImageObject'>
+<meta content='https://2.bp.blogspot.com/-z_neu_jdmF4/VbVr4STl7mI/AAAAAAAAhiQ/-ykM7LgN2Es/s600/logo-ka.png' itemprop='url'/>
+<meta content='600' itemprop='width'/>
+<meta content='600' itemprop='height'/>
+</div>
+<meta content='Blog Guru SD' itemprop='name'/>
+</div>
+<h2 class='post-title entry-title' itemprop='headline'>
+<a href='http://cdn.rawgit.com/asharyimron/Latihan/master/sitemap.html' itemprop='url mainEntityOfPage' title='Sitemap Blog Anda'>Sitemap Blog Anda</a>
+</h2>
+<div class='postmeta'>
+<h3 class='date-header'>
+<span class='post-author vcard' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<amp-img alt='author photo' height='36' src='//lh3.googleusercontent.com/-HpDQnWXASi4/AAAAAAAAAAI/AAAAAAAAD90/5kbDrX8Wf38/s512-c/photo.jpg' title='Author Photo' width='36'></amp-img>
+<span class='fn author'>
+<a class='g-profile' href='https://plus.google.com/113595986982172598153' itemprop='url' rel='author' title='author profile'>
+<span itemprop='name'>septiani ashari</span>
+</a>
+</span>
+<meta content='//lh3.googleusercontent.com/-HpDQnWXASi4/AAAAAAAAAAI/AAAAAAAAD90/5kbDrX8Wf38/s512-c/photo.jpg' itemprop='image'/>
+</span>
+<span class='clock'>
+<i class='material-icons'>&#58900;</i>
+<a class='updated' href='http://www.gurusinau.com/p/tos.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished dateModified' title='2016-11-09T09:56:00-08:00'>
+9:56:00 AM</abbr></a></span></h3>
+</div>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<meta content=' Terms of Service for Blog Guru SD  If you require any more information or have any questions about our Terms of Service, please feel free t...' itemprop='description'/>
+<div id="table-outer">
+<form method="get" action="/" target="_blank">
+<table><tbody>
+<tr><td><label for="feed-order">Urutkan artikel berdasarkan:</label></td> <td><select id="feed-order"> <option selected="" value="published">Artikel terbaru</option> <option value="updated">Artikel yang terakhir di update</option> </select></td></tr>
+<tr><td><label for="label-sorter">Filter artikel berdasarkan kategori:</label></td> <td><select disabled="" id="label-sorter"> <option selected="">Loading....</option> </select></td></tr>
+<tr>                 <td><label for="feed-q">Cari artikel dengan kata kunci:</label></td> <td><form method="get" action="/" target="_blank" id="post-searcher">
+<input id="feed-q" type="text" placeholder="Ketik dan tekan ENTER"/>
+</form>
+</td></tr>
+</tbody></table>
+</form>
+</div>
+<header id="result-desc"></header>
+<ul id="feed-container"></ul>
+<div id="feed-nav">
+</div>
+<script type='text/javaScript'>
+document.write;var loadToc,loadCategories,_toc={init:function(){var cfg={homePage:"http://www.gurusinau.com",maxResults:10,numChars:270,thumbWidth:140,thumbHeight:95,navText:"Tampilkan artikel selanjutnya &#9660;",resetToc:"Kembali ke Awal",noImage:"http://2.bp.blogspot.com/-11FkySHGB5Y/TpZ6SSbsF2I/AAAAAAAAA94/zK10UaL7jgo/s1600/images.jpeg",loading:"<span>Memuat...</span>",counting:"<div>Memuat artikel...</div>",searching:"<span>Mencari...</span>"},w=window,d=document,el=function(id){return d.getElementById(id);},o={a:el('feed-order'),b:el('label-sorter').parentNode,c:el('post-searcher'),d:el('feed-q'),e:el('result-desc'),f:el('feed-container'),g:el('feed-nav'),h:d.getElementsByTagName('head')[0],i:0,j:null,k:'published',l:0,m:""},fn={a:function(){old=el('temporer-script');old.parentNode.removeChild(old);},b:function(param){var script=d.createElement('script');script.type="text/javascript";script.id="temporer-script";script.src=param;if(el('temporer-script'))fn.a();o.h.appendChild(script);},c:function(mode,tag,order){o.i++;o.e.innerHTML=cfg.counting;o.g.innerHTML=cfg[mode==1?"searching":"loading"];if(mode===0){fn.b(tag!==null?cfg.homePage+'/feeds/posts/summary/-/'+ tag+'?alt=json-in-script&start-index='+((o.i*cfg.maxResults)+ 1)+'&max-results='+ cfg.maxResults+'&orderby='+ order+'&callback=loadToc':cfg.homePage+'/feeds/posts/summary?alt=json-in-script&start-index='+((o.i*cfg.maxResults)+ 1)+'&max-results='+ cfg.maxResults+'&orderby='+ order+'&callback=loadToc');}else if(mode==1){fn.b(cfg.homePage+'/feeds/posts/summary?alt=json-in-script&start-index='+((o.i*cfg.maxResults)+ 1)+'&max-results='+ cfg.maxResults+'&q='+ tag+'&orderby='+ order+'&callback=loadToc');}
+o.j=(tag!==null)?tag:null;o.l=mode;o.a.disabled=true;o.b.children[0].disabled=true;},d:function(json){var _h;o.g.innerHTML="";o.e.innerHTML=o.l==1?'<span>Hasil penelusuran untuk kata kunci <b>&#8220;'+ o.m+'&#8221;</b> ('+ json.feed.openSearch$totalResults.$t+' Hasil)</span>':'<div>Total: '+ json.feed.openSearch$totalResults.$t+' Artikel</div>';if("entry"in json.feed){var a=json.feed.entry,b,c,_d,e="0 Komentar",f="",g;for(var i=0;i<cfg.maxResults;i++){if(i==a.length)break;b=a[i].title.$t;_d=("summary"in a[i])?a[i].summary.$t.replace(/<br ?\/?>/ig," ").replace(/<(.*?)>/g,"").replace(/<iframe/ig,"").substring(0,cfg.numChars):"";g=("media$thumbnail"in a[i])?a[i].media$thumbnail.url.replace(/\/s[0-9]+\-c/,"\/s"+ cfg.thumbWidth+""):cfg.noImage.replace(/\/s[0-9]+\-c/,"\/s"+ cfg.thumbWidth+"");for(var j=0,jen=a[i].link.length;j<jen;j++){c=(a[i].link[j].rel=="alternate")?a[i].link[j].href:"#";}
+for(var k=0,ken=a[i].link.length;k<ken;k++){if(a[i].link[k].rel=="replies"&&a[i].link[k].type=="text/html"){e=a[i].link[k].title;break;}}
+_h=d.createElement('li');_h.innerHTML='<div class="inner"><img style="width:'+ cfg.thumbWidth+'px;height:'+ cfg.thumbHeight+'px;" src="'+ g+'" alt="'+ b+'"><a class="toc-title" href="'+ c+'" target="_blank" title="'+ b+'">'+ b+'</a><div class="news-text">'+ _d+'&hellip;<br style="clear:both;"></div></div>';o.f.appendChild(_h);}
+_h=d.createElement('a');_h.href='#load-more';_h.innerHTML=cfg.navText;_h.onclick=function(){fn.c(o.l,o.j,o.k);return false;};}else{_h=d.createElement('a');_h.href='#reset-content';_h.innerHTML=cfg.resetToc;_h.onclick=function(){o.i=-1;o.e.innerHTML=cfg.counting;o.f.innerHTML="";fn.c(0,null,'published');o.a.innerHTML=o.a.innerHTML;o.b.children[0].innerHTML=o.b.children[0].innerHTML;return false;};}
+o.g.appendChild(_h);o.a.disabled=false;o.b.children[0].disabled=false;},e:function(json){var a=json.feed.category,b='<select id="label-sorter"><option value="" selected disabled>Pilih Kategori...</option>';for(var i=0,len=a.length;i<len;i++){b+='<option value="'+ encodeURIComponent(a[i].term)+'">'+ encodeURIComponent(a[i].term)+'</option>';}
+b+='</select>';o.b.innerHTML=b;o.b.children[0].onchange=function(){o.i=-1;o.f.innerHTML="";o.g.innerHTML=cfg.loading;fn.c(0,this.value,o.k);};}};loadToc=fn.d;loadCategories=fn.e;fn.b(cfg.homePage+'/feeds/posts/summary?alt=json-in-script&start-index='+(o.i+ 1)+'&max-results='+ cfg.maxResults+'&orderby=published&callback=loadToc');fn.b(cfg.homePage+'/feeds/posts/summary?alt=json-in-script&max-results=0&orderby=published&callback=loadCategories');o.a.onchange=function(){o.i=-1;o.f.innerHTML="";o.g.innerHTML=cfg.counting;o.b.children[0].innerHTML=o.b.children[0].innerHTML;fn.c(0,null,this.value);o.k=this.value;};o.c.onsubmit=function(){o.i=-1;o.f.innerHTML="";o.m=o.d.value;fn.c(1,o.d.value,o.k);return false;};}};_toc.init();
+</script>
+<h1>
+Terms of Service for Blog Guru SD</h1>
+If you require any more information or have any questions about our Terms of Service, please feel free to contact us by email at <a href="https://www.blogger.com/null" name="contactlink"></a> <a href="mailto:septiatin.imran@gmail.com">septiatin.imran@gmail.com</a>.<br />
+<h2>
+Introduction</h2>
+These terms and conditions govern your use of this website; by using this website, you accept these terms and conditions in full and without reservation. If you disagree with these terms and conditions or any part of these terms and conditions, you must not use this website.<br />
+<br />
+            You must be at least 18 [eighteen] years of age to use this website.  By using this website and by agreeing to these terms and conditions, you warrant and represent that you are at least 18 years of age.<br />
+
+            <h2>
+License to use website</h2>
+Unless otherwise stated, http://www.gurusinau.com/ and/or its licensors own the intellectual property rights published on this website and materials used on http://www.gurusinau.com/.  Subject to the license below, all these intellectual property rights are reserved.<br />
+<br />
+            You may view, download for caching purposes only, and print pages, files or other content from the website for your own personal use, subject to the restrictions set out below and elsewhere in these terms and conditions.<br />
+<br />
+            You must not:<br />
+            <ul>
+<li>republish material from this website in neither print nor digital media or documents (including republication on another website);</li>
+<li>sell, rent or sub-license material from the website;</li>
+<li>show any material from the website in public;</li>
+<li>reproduce, duplicate, copy or otherwise exploit material on this website for a commercial purpose;</li>
+<li>edit or otherwise modify any material on the website;</li>
+<li>redistribute material from this website - except for content specifically and expressly made available for redistribution; or</li>
+<li>republish or reproduce any part of this website through the use of iframes or screenscrapers.</li>
+</ul>
+Where content is specifically made available for redistribution, it may only be redistributed within your organisation.<br />
+
+            <h2>
+Acceptable use</h2>
+You must not use this website in any way that causes, or may cause, damage to the website or impairment of the availability or accessibility of http://www.gurusinau.com/ or in any way which is unlawful, illegal, fraudulent or harmful, or in connection with any unlawful, illegal, fraudulent or harmful purpose or activity.<br />
+<br />
+            You must not use this website to copy, store, host, transmit, send, use, publish or distribute any material which consists of (or is linked to) any spyware, computer virus, Trojan horse, worm, keystroke logger, rootkit or other malicious computer software.<br />
+<br />
+            You must not conduct any systematic or automated data collection activities on or in relation to this website without http://www.gurusinau.com/'s express written consent.<br /><br />
+This includes:<br />
+<br />
+<ul>
+<li>scraping</li>
+<li>data mining</li>
+<li>data extraction</li>
+<li>data harvesting</li>
+<li>'framing' (iframes)</li>
+<li>Article 'Spinning'</li>
+</ul>
+You must not use this website or any part of it to transmit or send unsolicited commercial communications.<br />
+<br />
+            You must not use this website for any purposes related to marketing without the express written consent of http://www.gurusinau.com/.<br />
+
+  <h2>
+Restricted access</h2>
+Access to certain areas of this website is restricted. http://www.gurusinau.com/ reserves the right to restrict access to certain areas of this website, or at our discretion, this entire website. http://www.gurusinau.com/ may change or modify this policy without notice.<br />
+<br />
+            If http://www.gurusinau.com/ provides you with a user ID and password to enable you to access restricted areas of this website or other content or services, you must ensure that the user ID and password are kept confidential. You alone are responsible for your password and user ID security..<br />
+<br />
+            http://www.gurusinau.com/ may disable your user ID and password at http://www.gurusinau.com/'s sole discretion without notice or explanation.<br />
+
+            <h2>
+User content</h2>
+In these terms and conditions, &#8220;your user content&#8221; means material (including without limitation text, images, audio material, video material and audio-visual material) that you submit to this website, for whatever purpose.<br />
+<br />
+            You grant to http://www.gurusinau.com/ a worldwide, irrevocable, non-exclusive, royalty-free license to use, reproduce, adapt, publish, translate and distribute your user content in any existing or future media.  You also grant to http://www.gurusinau.com/ the right to sub-license these rights, and the right to bring an action for infringement of these rights.<br />
+<br />
+            Your user content must not be illegal or unlawful, must not infringe any third party's legal rights, and must not be capable of giving rise to legal action whether against you or http://www.gurusinau.com/ or a third party (in each case under any applicable law).<br />
+<br />
+            You must not submit any user content to the website that is or has ever been the subject of any threatened or actual legal proceedings or other similar complaint.<br />
+<br />
+            http://www.gurusinau.com/ reserves the right to edit or remove any material submitted to this website, or stored on the servers of http://www.gurusinau.com/, or hosted or published upon this website.<br />
+<br />
+            http://www.gurusinau.com/'s rights under these terms and conditions in relation to user content, http://www.gurusinau.com/ does not undertake to monitor the submission of such content to, or the publication of such content on, this website.<br />
+
+            <h2>
+No warranties</h2>
+This website is provided &#8220;as is&#8221; without any representations or warranties, express or implied.  http://www.gurusinau.com/ makes no representations or warranties in relation to this website or the information and materials provided on this website.<br />
+<br />
+            Without prejudice to the generality of the foregoing paragraph, http://www.gurusinau.com/ does not warrant that:<br />
+            <ul>
+<li>this website will be constantly available, or available at all; or</li>
+<li>the information on this website is complete, true, accurate or non-misleading.</li>
+</ul>
+Nothing on this website constitutes, or is meant to constitute, advice of any kind.  If you require advice in relation to any legal, financial or medical matter you should consult an appropriate professional.<br />
+
+            <h2>
+Limitations of liability</h2>
+http://www.gurusinau.com/ will not be liable to you (whether under the law of contact, the law of torts or otherwise) in relation to the contents of, or use of, or otherwise in connection with, this website:<br />
+            <ul>
+<li>to the extent that the website is provided free-of-charge, for any direct loss;</li>
+<li>for any indirect, special or consequential loss; or</li>
+<li>for any business losses, loss of revenue, income, profits or anticipated savings, loss of contracts or business relationships, loss of reputation or goodwill, or loss or corruption of information or data.</li>
+</ul>
+These limitations of liability apply even if http://www.gurusinau.com/ has been expressly advised of the potential loss.<br />
+
+            <h2>
+Exceptions</h2>
+Nothing in this website disclaimer will exclude or limit any warranty implied by law that it would be unlawful to exclude or limit; and nothing in this website disclaimer will exclude or limit the liability of Blog Guru SD in respect of any:<br />
+            <ul>
+<li>death or personal injury caused by the negligence of http://www.gurusinau.com/ or its agents, employees or shareholders/owners;</li>
+<li>fraud or fraudulent misrepresentation on the part of http://www.gurusinau.com/; or</li>
+<li>matter which it would be illegal or unlawful for http://www.gurusinau.com/ to exclude or limit, or to attempt or purport to exclude or limit, its liability.</li>
+</ul>
+<h2>
+Reasonableness</h2>
+By using this website, you agree that the exclusions and limitations of liability set out in this website disclaimer are reasonable.<br />
+<br />
+            If you do not think they are reasonable, you must not use this website.<br />
+
+            <h2>
+Other parties</h2>
+You accept that, as a limited liability entity, http://www.gurusinau.com/ has an interest in limiting the personal liability of its officers and employees.  You agree that you will not bring any claim personally against http://www.gurusinau.com/'s officers or employees in respect of any losses you suffer in connection with the website.<br />
+<br />
+            Without prejudice to the foregoing paragraph, you agree that the limitations of warranties and liability set out in this website disclaimer will protect http://www.gurusinau.com/'s officers, employees, agents, subsidiaries, successors, assigns and sub-contractors as well as http://www.gurusinau.com/.<br />
+
+            <h2>
+Unenforceable provisions</h2>
+If any provision of this website disclaimer is, or is found to be, unenforceable under applicable law, that will not affect the enforceability of the other provisions of this website disclaimer.<br />
+
+            <h2>
+Indemnity</h2>
+You hereby indemnify http://www.gurusinau.com/ and undertake to keep http://www.gurusinau.com/ indemnified against any losses, damages, costs, liabilities and expenses (including without limitation legal expenses and any amounts paid by http://www.gurusinau.com/ to a third party in settlement of a claim or dispute on the advice of http://www.gurusinau.com/'s legal advisers) incurred or suffered by http://www.gurusinau.com/ arising out of any breach by you of any provision of these terms and conditions, or arising out of any claim that you have breached any provision of these terms and conditions.<br />
+
+            <h2>
+Breaches of these terms and conditions</h2>
+Without prejudice to http://www.gurusinau.com/'s other rights under these terms and conditions, if you breach these terms and conditions in any way, http://www.gurusinau.com/ may take such action as http://www.gurusinau.com/ deems appropriate to deal with the breach, including suspending your access to the website, prohibiting you from accessing the website, blocking computers using your IP address from accessing the website, contacting your internet service provider to request that they block your access to the website and/or bringing court proceedings against you.<br />
+
+            <h2>
+Variation</h2>
+http://www.gurusinau.com/ may revise these terms and conditions from time-to-time.  Revised terms and conditions will apply to the use of this website from the date of the publication of the revised terms and conditions on this website.  Please check this page regularly to ensure you are familiar with the current version.<br />
+
+            <h2>
+Assignment</h2>
+http://www.gurusinau.com/ may transfer, sub-contract or otherwise deal with http://www.gurusinau.com/'s rights and/or obligations under these terms and conditions without notifying you or obtaining your consent.<br />
+<br />
+            You may not transfer, sub-contract or otherwise deal with your rights and/or obligations under these terms and conditions.<br />
+
+            <h2>
+Severability</h2>
+If a provision of these terms and conditions is determined by any court or other competent authority to be unlawful and/or unenforceable, the other provisions will continue in effect.  If any unlawful and/or unenforceable provision would be lawful or enforceable if part of it were deleted, that part will be deemed to be deleted, and the rest of the provision will continue in effect.<br />
+
+            <h2>
+Entire agreement</h2>
+These terms and conditions, together with http://www.gurusinau.com/'s Privacy Policy constitute the entire agreement between you and http://www.gurusinau.com/ in relation to your use of this website, and supersede all previous agreements in respect of your use of this website.<br />
+
+            <h2>
+Law and jurisdiction</h2>
+These terms and conditions will be governed by and construed in accordance with the laws of NEVADA, USA, and any disputes relating to these terms and conditions will be subject to the exclusive jurisdiction of the courts of NEVADA, USA.<br />
+
+<h2>
+About these website Terms of Service</h2>
+We created these website terms and conditions using the TOS/T&amp;C generator available from <a href="http://www.privacypolicyonline.com/">Privacy Policy Online</a>.<br />
+
+            <h2>
+http://www.gurusinau.com/'s details</h2>
+The full name of http://www.gurusinau.com/ is Blog Guru SD.<br />
+       
+<div class='clear'></div>
+</div>
+</div>
+</article>
+<div class='disqus-comments' id='disqus_comments'>
+<amp-accordion>
+<section>
+<h4>
+<span class='show-more'>Add/Hide your comment</span>
+</h4>
+<amp-iframe frameborder='0' height='300' layout='responsive' resizable='resizable' sandbox='allow-scripts allow-same-origin allow-modals allow-popups' src='https://cdn.rawgit.com/KompiAjaib/kompi-html/master/disqus_amp2.html?shortname=kompi-design&url=http://www.gurusinau.com/p/tos.html' width='600'>
+<div aria-label='Disqus Comments' overflow='' role='button' tabindex='0'>Disqus Comments</div>
+</amp-iframe>
+</section>
+</amp-accordion>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+</div>
+</div></div>
+</div>
+<div itemprop='mainEntity' itemscope='itemscope' itemtype='https://schema.org/WPSideBar'>
+<aside id='sidebar-kanan'>
+<div id='sidebar-wrapper'>
+<div class='sidebar section' id='sidebar'><div class='widget FeaturedPost' data-version='1' id='FeaturedPost1'>
+<h2 class='title'>Featured Post</h2>
+<div class='post-summary'>
+<amp-img alt='' class='image' height='180' layout='responsive' src='https://1.bp.blogspot.com/-9AqBjmoR-Lc/WDrJfxex_GI/AAAAAAAAH3g/BW3OtRkUYm0i9aR7RZA68_UxMx3FoUytACLcB/s1600/sosialisasi.jpg' title='' width='300'></amp-img>
+<h3><a href='http://www.gurusinau.com/2016/11/pembahasan-tema-1-subtema-1-pembelajaran-3-kelas-5-wujud-benda-dan-cirinya.html'>Pembahasan, Tema 1, Subtema 1, Pembelajaran 3, Kelas 5, Wujud Benda dan Cirinya</a></h3>
+<p>
+ Selain sebagai makhluk individu, manusia juga sebagai makhluk sosial. Artinya, manusia membutuhkan orang lain untuk memenuhi kebutuhan hidu...
+</p>
+</div>
+</div><div class='widget PopularPosts' data-version='1' id='PopularPosts1'>
+<h2>Popular Posts</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://www.gurusinau.com/2016/11/kelas-5-subtema-1-pembelajaran-1-wujud-benda-dan-cirinya.html' target='_blank'>
+<amp-img alt='Kelas 5, Subtema 1, Pembelajaran 1, Wujud Benda dan Cirinya' height='70' src='https://3.bp.blogspot.com/-xlJhA4s5yvc/WDpVaJJoqcI/AAAAAAAAH1w/7woVola0PgQOC_eIOAMvl1WP2fiNLYCFgCLcB/w100/perubahan.jpg' title='Kelas 5, Subtema 1, Pembelajaran 1, Wujud Benda dan Cirinya' width='100'></amp-img>
+</a>
+</div>
+<div class='item-title'><a href='http://www.gurusinau.com/2016/11/kelas-5-subtema-1-pembelajaran-1-wujud-benda-dan-cirinya.html'>Kelas 5, Subtema 1, Pembelajaran 1, Wujud Benda dan Cirinya</a></div>
+<div class='item-snippet'> Edo, Beni, dan Lani tergabung dalamsebuah kelompok atau komunitas pecinta lingkungan bernama SALAM.SALAM merupakan kependekan dari Sahabat ...</div>
+</div>
+<div class='clear'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://www.gurusinau.com/2016/11/pembahasan-tema-1-subtema-1-pembelajaran-3-kelas-5-wujud-benda-dan-cirinya.html' target='_blank'>
+<amp-img alt='Pembahasan, Tema 1, Subtema 1, Pembelajaran 3, Kelas 5, Wujud Benda dan Cirinya' height='70' src='https://1.bp.blogspot.com/-9AqBjmoR-Lc/WDrJfxex_GI/AAAAAAAAH3g/BW3OtRkUYm0i9aR7RZA68_UxMx3FoUytACLcB/w100/sosialisasi.jpg' title='Pembahasan, Tema 1, Subtema 1, Pembelajaran 3, Kelas 5, Wujud Benda dan Cirinya' width='100'></amp-img>
+</a>
+</div>
+<div class='item-title'><a href='http://www.gurusinau.com/2016/11/pembahasan-tema-1-subtema-1-pembelajaran-3-kelas-5-wujud-benda-dan-cirinya.html'>Pembahasan, Tema 1, Subtema 1, Pembelajaran 3, Kelas 5, Wujud Benda dan Cirinya</a></div>
+<div class='item-snippet'> Selain sebagai makhluk individu, manusia juga sebagai makhluk sosial. Artinya, manusia membutuhkan orang lain untuk memenuhi kebutuhan hidu...</div>
+</div>
+<div class='clear'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://www.gurusinau.com/2016/11/pembahasan-tema1-subtema-1-pembelajaran.html' target='_blank'>
+<amp-img alt='Pembahasan Tema1, Subtema 1, Pembelajaran 2, Kelas 5' height='70' src='https://3.bp.blogspot.com/-yMXcIAoxD0Q/WDlyQjaDfPI/AAAAAAAAH1I/bfsMfn5DpS0zkT3848s0AwNQ1kK6agrGACLcB/w100/olahraga.jpg' title='Pembahasan Tema1, Subtema 1, Pembelajaran 2, Kelas 5' width='100'></amp-img>
+</a>
+</div>
+<div class='item-title'><a href='http://www.gurusinau.com/2016/11/pembahasan-tema1-subtema-1-pembelajaran.html'>Pembahasan Tema1, Subtema 1, Pembelajaran 2, Kelas 5</a></div>
+<div class='item-snippet'>   Selain lingkungan alam yang sehat, aktivitas fisik yang rutin dan teratur adalah kunci terciptanya kesehatan diri. Salah satu aktivitas f...</div>
+</div>
+<div class='clear'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://www.gurusinau.com/2016/10/3-cara-perpindahan-panas.html' target='_blank'>
+<amp-img alt='3 Cara Perpindahan Panas' height='70' src='https://4.bp.blogspot.com/-h-v5S_U3z68/VzQE-ipicfI/AAAAAAAAErc/XkTHkbJYvSUyhyGCHsPQIcSViItlIugrwCLcB/w100/perpindahan-panas.jpg' title='3 Cara Perpindahan Panas' width='100'></amp-img>
+</a>
+</div>
+<div class='item-title'><a href='http://www.gurusinau.com/2016/10/3-cara-perpindahan-panas.html'>3 Cara Perpindahan Panas</a></div>
+<div class='item-snippet'>Kalau kita melihat alat yang ada di dapur rumah kita, banyak dari alat tersebut yang terbuat dari bahan logam. Kenapa dipilih bahan ini? Pem...</div>
+</div>
+<div class='clear'></div>
+</li>
+</ul>
+</div>
+</div><div class='widget Label' data-version='1' id='Label1'>
+<h2>Labels</h2>
+<div class='widget-content list-label-widget-content'>
+<ul class='label-show'>
+<li>
+<a dir='ltr' href='http://www.gurusinau.com/search/label/Astronomi'>Astronomi<span class='label-count' dir='ltr'>1</span></a>
+</li>
+<li>
+<a dir='ltr' href='http://www.gurusinau.com/search/label/Ekonomi'>Ekonomi<span class='label-count' dir='ltr'>1</span></a>
+</li>
+<li>
+<a dir='ltr' href='http://www.gurusinau.com/search/label/Fisika'>Fisika<span class='label-count' dir='ltr'>1</span></a>
+</li>
+<li>
+<a dir='ltr' href='http://www.gurusinau.com/search/label/Kelas%205'>Kelas 5<span class='label-count' dir='ltr'>3</span></a>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+<div class='clear'></div>
+</aside>
+</div>
+<!-- spacer for skins that want sidebar and main to be the same height-->
+<div class='clear'></div>
+</div>
+<div class='clear'></div>
+</div>
+</div>
+</div>
+<footer itemprop='mainEntity' itemscope='itemscope' itemtype='http://schema.org/WPFooter'>
+<div id='footer-wrapper'>
+<div class='content-wrapper'>
+<div class='footer no-items section' id='footer1'></div>
+<div class='footer no-items section' id='footer2'></div>
+<div class='footer no-items section' id='footer3'></div>
+<div class='footer no-items section' id='footer4'></div>
+</div>
+<div class='clear'></div>
+</div>
+<div class='clear'></div>
+<div class='creditpic'>
+<div class='content-wrapper'>
+<div class='credit'>
+Copyright &#169; <span itemprop='copyrightYear'>2016</span>
+<span itemprop='copyrightHolder' itemscope='itemscope' itemtype='https://schema.org/Organization'><a href='http://www.gurusinau.com/' itemprop='url' title='Blog Guru SD'><span itemprop='name'>Blog Guru SD</span></a></span> Proudly powered by <a href='//www.blogger.com' title='Blogger'>Blogger</a> | <a href='http://www.gurusinau.com/p/about.html' title='About'>About</a> | <a href='http://www.gurusinau.com/p/privacy-policy-for-blog-guru-sd-if-you.html' title='Privacy Policy'>Privacy Policy</a> | <a href='http://www.gurusinau.com/p/disclaimer_9.html' title='Disclaimer'>Disclaimer</a> | <a href='http://www.gurusinau.com/p/tos.html' title='Sitemap'>Sitemap</a>
+<div class='clear'></div>
+</div>
+</div>
+</div>
+<div class='clear'></div>
+</footer>
+</div>
+</body>--></body>
+</HTML>
